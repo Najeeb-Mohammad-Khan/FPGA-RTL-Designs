@@ -1,0 +1,5 @@
+Script started on 2022-11-22 08:04:32+0530
+VCD info: dumpfile SevenSegmentDisplay_tb.vcd opened for output.
+DataDump Started
+
+Script done on 2022-11-22 08:04:32+0530
